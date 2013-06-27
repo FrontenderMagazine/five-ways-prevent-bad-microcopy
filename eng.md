@@ -205,7 +205,7 @@ stronger. So, **every moment is a branding moment. Even when it’s not**.
 
 ## 5. If Content Is King, Then Treat Context Like A Queen.
 
-The hot saying right now is “*Content* is king.” Native advertising, or the
+The hot saying right now is “Content is king.” Native advertising, or the
 integration of relevant content into a natural experience for the purpose of
 acquisition, is becoming a core offering of many agencies and has spawned a few
 popular startups.
